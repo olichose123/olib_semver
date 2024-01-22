@@ -1,0 +1,9 @@
+-cp src
+-main olib.semver.tests.Main
+
+-hl bin/out.hl
+
+-D debug
+-D message-reporting=pretty
+
+-L utest

@@ -1,0 +1,20 @@
+{
+    "name": "olib_semver",
+    "url": "https://github.com/olichose123/olib_semver",
+    "license": "MIT",
+    "tags": [
+        "utility",
+        "semver",
+        "versioning",
+        "string",
+        "abstract"
+    ],
+    "description": "Semantic versioning as a string abstract for easier serilializing",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": [
+        "oli_chose123"
+    ],
+    "dependencies": {}
+}
